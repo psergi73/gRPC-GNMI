@@ -1,5 +1,5 @@
 # gRPC-GNMI
-This repository contains a Java GNMI Client. 
+This repository contains a Java GNMI Client , the client function is to collect Telemetry statistics. 
 
 Download the zip file  locally and issue the below command  from the  root folder. Depending  if i t  will run ona Windows or Linux machine  the syntax is slightly different.
 
