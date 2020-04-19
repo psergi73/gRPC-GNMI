@@ -1,7 +1,8 @@
 # gRPC-GNMI
 This repository contains a Java GNMI Client. 
 
-Download the project locally and issue the below command depending of it  will run ona Windows or Linux machine.
+Download the zip file  locally and issue the below command  from the  root folder. Depending  if i t  will run ona Windows or Linux machine  the syntax is slightly different.
+
 JRE 1.8 is a prerequisite to run the application
 
 
